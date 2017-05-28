@@ -65,7 +65,8 @@ Additions that I plan on including are as follows;
 2. I'm looking into how difficult It'll be to set up a custom theme system, one where you'll create it yourself or have someone create it for you, to switch from my 'minimal' theme to one of your choosing. This addition will likely tie into the complete rewrite that I have planned, it makes the most sense to me.
 
 # Contact
-If you wish to contact me about this project please do one of the following;
+If you wish to contact me about this project please do one of the following;  
+Contact me through the email listed on my profile page.  
 Contact me on Discord @PhazingAzrael.
 
 
