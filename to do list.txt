@@ -1,0 +1,6 @@
+clean up code
+
+Restructure the code using a responsive design? 
+~potentially allowing for basic theme changes as a possible future idea.
+
+~create 'custom' team files to load and save from (not required but would be nice)
