@@ -9,27 +9,27 @@ var display = window.location.hostname;
 
 var team = [
     {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }, {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }, {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }, {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }, {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }, {
-        "imageFile": "img/noPokemon.png",
+        "imageFile": "",
         "Type1": "",
         "Type2": ""
     }
@@ -49,12 +49,11 @@ var currentBadges = {
 };
 
 $(document).ready(function () {
-    //Set the link for the display source
-    do {
-        $('.displayLink').val(display + '/display.html', "value");
-    } while ($('.displayLink').val() === "");
-
-
+        //$('.displayLink').val(display + '/display.html', "value");
+        do{
+            $('.displayLink').val(display + '/display.html', "value");  
+        }
+        while($('.displayLink').val() === "");
     /* Party selection functionality */
 
     /* Fill the selects with pokemon data */
@@ -183,27 +182,27 @@ $(document).ready(function () {
 
         var teamBase = [
             {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }, {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }, {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }, {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }, {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }, {
-                "imageFile": "img/noPokemon.png",
+                "imageFile": "",
                 "Type1": "",
                 "Type2": ""
             }
